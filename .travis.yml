@@ -1,0 +1,8 @@
+language: node_js
+sudo: true
+node_js:
+- stable
+script:
+- npm test
+notifications:
+  email: false
