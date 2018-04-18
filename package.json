@@ -22,7 +22,7 @@
   "author": "Ary Pablo Batista <arypbatista@gmail.com>",
   "license": "Apache-2.0",
   "dependencies": {
-    "cloudant": "^1.4.2",
+    "cloudant": "1.10.0",
     "nano-promises": "git://github.com/hashans/nano-promises.git"
   },
   "devDependencies": {
