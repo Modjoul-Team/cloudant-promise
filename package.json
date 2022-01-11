@@ -23,7 +23,7 @@
   "license": "Apache-2.0",
   "dependencies": {
     "cloudant": "1.10.0",
-    "nano-promises": "git://github.com/hashans/nano-promises.git"
+    "nano-promises": "https://github.com/Modjoul-Team/nano-promises.git"
   },
   "devDependencies": {
     "codecov": "^1.0.1",
